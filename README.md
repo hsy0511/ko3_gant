@@ -3,7 +3,6 @@
 ## 간트차트 생성
 [허성영-간트차트.xlsx](https://github.com/hsy0511/ko3_gant/files/11494495/-.xlsx)
 ## 간트차트 1주차
-[허성영-간트차트.xlsx](https://github.com/hsy0511/ko3_gant/files/11494525/-.xlsx)
 ## 간트차트 2주차
 ## 간트차트 3주차
 ## 간트차트 4주차
