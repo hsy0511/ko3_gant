@@ -1,7 +1,8 @@
 # ko3_gant
 # 인생 마지막 고3 생활 계획(간트 차트)
 ## 간트차트 생성
-[허성영-간트차트.xlsx](https://github.com/hsy0511/ko3_gant/files/11538713/-.xlsx)
+[허성영-간트차트.xlsx](https://github.com/hsy0511/ko3_gant/files/11540438/-.xlsx)
+
 ## 간트차트 1주차
 ## 간트차트 2주차
 ## 간트차트 3주차
